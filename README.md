@@ -2,6 +2,7 @@
 
 # 概要
     シリアルデバックのデータをグラフ表示に
+![serial_plot.mp4](https://github.com/yn4k4nishi/serial_plot/blob/master/serial_plot.mp4)
 
 # 使い方
 
@@ -18,4 +19,5 @@ x y
 でシリアルを送る
 
 同時にscreenコマンドは使えないので注意
+
 
