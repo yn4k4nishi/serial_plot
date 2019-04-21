@@ -1,7 +1,8 @@
 # serial_plot
 
 # 概要
-    シリアルデバックのデータをグラフ表示に
+シリアルデバックのデータをグラフ表示に
+
 ![serial_plot.png](https://github.com/yn4k4nishi/serial_plot/blob/master/serial_plot.png)
 
 # 使い方
