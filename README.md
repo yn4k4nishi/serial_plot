@@ -2,7 +2,7 @@
 
 # 概要
     シリアルデバックのデータをグラフ表示に
-![serial_plot.mp4](https://github.com/yn4k4nishi/serial_plot/blob/master/serial_plot.mp4)
+![serial_plot.png](https://github.com/yn4k4nishi/serial_plot/blob/master/serial_plot.png)
 
 # 使い方
 
